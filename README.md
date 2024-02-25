@@ -13,8 +13,8 @@
   <br /> To download launcher go to releases -> https://github.com/Derias20/PrismLauncher-Cracked/releases <br />
 </p>
 
-License [![https://github.com/PrismLauncher/PrismLauncher/blob/develop/LICENSE](https://img.shields.io/github/license/PrismLauncher/PrismLauncher?label=License&logo=gnu&color=C4282D)](LICENSE)
+
+
 
 All launcher code is available under the GPL-3.0-only license.
-
 The logo and related assets are under the CC BY-SA 4.0 license.
